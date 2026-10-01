@@ -10,7 +10,7 @@ Computer Science student at **Florida State University** (graduating May 2027), 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Computational Neuroscience Chatbot](https://github.com/Amm1el/Computational-Neuroscience-Chatbot) | RAG support chatbot grounded in a knowledge base | Next.js, Node.js, Amazon Bedrock |
+| [Computational Neuroscience Chatbot](https://github.com/Amm1el/Computational-Neuroscience-Chatbot) | RAG support chatbot grounded in a knowledge base | Next.js, Node.js, Amazon Bedrock, Pinecone |
 | [Rate My Professor RAG](https://github.com/Amm1el/Rate-My-Professor-RAG) | Professor recommendations from vector search over reviews | Next.js, OpenAI, Pinecone |
 | [SmartCards](https://github.com/Amm1el/SmartCards) | AI flashcard generator with accounts and payments | Next.js, OpenAI, Clerk, Firestore, Stripe |
 | [Inventory Tracker](https://github.com/Amm1el/Inventory-Tracker) | Inventory manager with search and an activity log | Next.js, Firestore |
