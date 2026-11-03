@@ -3,7 +3,7 @@
 Computer Science student at **Florida State University** (graduating May 2027), building backend systems and AI tools. Looking for **full-time new grad software engineering roles** in backend and AI/ML.
 
 - **Software Engineer Intern, Bastion Technologies (NASA contractor):** building a management training platform for NASA on Power Apps, Power Automate, and SharePoint.
-- **Special Projects Developer, FSU:** built the transcript management system FSU's Office of Admissions uses today: React and Vite, a Node.js and Express REST API, MongoDB with GridFS, and SAML single sign-on. More than 50 staff use it, and it holds 10,000+ transcripts. The code belongs to FSU, so it is not public; see the [project poster](https://ammielbowen.com/docs/Transcripter-Poster.pdf).
+- **Special Projects Developer, FSU:** built the transcript management system FSU's Office of Admissions uses today: React and Vite, a Node.js and Express REST API, and MongoDB, with SAML single sign-on configured on the Apache server. More than 50 staff use it, and it holds 10,000+ transcripts. The code belongs to FSU, so it is not public; see the [project poster](https://ammielbowen.com/docs/Transcripter-Poster.pdf).
 - **Research:** graph neural networks for seizure prediction from EEG with PyTorch, presented as a 2025 UROP poster.
 
 ## Featured projects
